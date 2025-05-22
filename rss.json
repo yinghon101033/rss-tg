@@ -51,6 +51,10 @@
     {
       "title": "nor's blog",
       "url": "https://nor-blog.pages.dev/index.xml"
+    },
+    {
+      "title": "aatcoder",
+      "url": "https://rsshub.app/atcoder/contest"
     }
   ]
 }
