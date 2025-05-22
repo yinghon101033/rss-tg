@@ -55,6 +55,12 @@
     {
       "title": "aatcoder",
       "url": "https://rsshub.app/atcoder/contest"
+    }    ,
+    {
+      "title": "aatcoder",
+      "url": "https://rsshub.app/codeforces/contests"
     }
+
+    
   ]
 }
