@@ -1,28 +1,32 @@
 {
-  "rss_info": [
-    {
-      "title": "阮一峰的网络日志",
-      "url": "http://feeds.feedburner.com/ruanyifeng"
-    },
-    {
-      "title": "nor's blog",
-      "url": "https://nor-blog.pages.dev/index.xml"
-    },
-    {
-      "title": "atcoder",
-      "url": "https://rsshub.app/atcoder/contest"
-    },
-    {
-      "title": "codeforces",
-      "url": "https://rsshub.app/codeforces/contests"
-    },
-    {
-      "title": "bbc world",
-      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
-    },
-    {
-      "title": "bbc zh",
-      "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml"
-    }
-  ]
+    "rss_info": [
+        {
+            "title": "阮一峰的网络日志",
+            "url": "http://feeds.feedburner.com/ruanyifeng"
+        },
+        {
+            "title": "nor's blog",
+            "url": "https://nor-blog.pages.dev/index.xml"
+        },
+        {
+            "title": "atcoder",
+            "url": "https://rsshub.app/atcoder/contest"
+        },
+        {
+            "title": "codeforces",
+            "url": "https://rsshub.app/codeforces/contests"
+        },
+        {
+            "title": "react",
+            "url": "https://rsshub.app/react/blog"
+        },
+        {
+            "title": "leetcode daily",
+            "url": "https://rsshub.app/leetcode/dailyquestion/cn"
+        },
+        {
+            "title": "huggingface",
+            "url": "https://rsshub.app/huggingface/blog-community"
+        }
+    ]
 }
