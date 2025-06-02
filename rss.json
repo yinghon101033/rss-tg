@@ -27,6 +27,14 @@
         {
             "title": "huggingface",
             "url": "https://rsshub.app/huggingface/blog-community"
+        },
+        {
+            "title": "bbc",
+            "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+        },
+        {
+            "title": "bbc trad",
+            "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml"
         }
     ]
 }
