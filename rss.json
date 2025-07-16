@@ -35,6 +35,10 @@
         {
             "title": "bbc trad",
             "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml"
+        },
+        {
+            "title": "engadget test",
+            "url": "https://www.engadget.com/rss.xml"
         }
     ]
 }
