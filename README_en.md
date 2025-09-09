@@ -1,7 +1,7 @@
 RSS_EVERYDAY is an RSS subscription tool. It collects new articles every four hours and pushes them to designated channels/group via TG BOT.
 ### [中文说明](https://github.com/GuangzheJiang/rss_everyday/blob/main/README.md)|[English Description](https://github.com/GuangzheJiang/rss_everyday/blob/main/README_en.md)
 ## How to use
-
+a
 ### Create TG BOT
 Add the `@BotFather` robot, register a bot, and remember the token of the bot.
 
