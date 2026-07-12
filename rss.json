@@ -39,6 +39,10 @@
         {
             "title": "engadget test",
             "url": "https://www.engadget.com/rss.xml"
+        },
+        {
+            "title": "petr",
+            "url": "https://blog.mitrichev.ch/feeds/posts/default"
         }
     ]
 }
